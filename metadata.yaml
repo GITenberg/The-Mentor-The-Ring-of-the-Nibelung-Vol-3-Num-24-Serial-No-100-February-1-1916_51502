@@ -1,0 +1,26 @@
+_repo: The-Mentor-The-Ring-of-the-Nibelung-Vol-3-Num-24-Serial-No-100-February-1-1916_51502
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Finck, Henry T.
+    alias: Finck, Henry Theophilus
+    birthdate: 1854
+    deathdate: 1926
+    gutenberg_agent_id: '4139'
+    url: http://www.gutenberg.org/2009/agents/4139
+description: ''
+gutenberg_issued: '2016-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51502'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Wagner, Richard, 1813-1883. Ring des Nibelungen'
+- GITenberg
+title: 'The Mentor: The Ring of the Nibelung, Vol. 3, Num. 24, Serial No. 100, February
+  1, 1916'
+url: http://www.gutenberg.org/ebooks/51502
